@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @KalyanGokhale
-- 👀 I’m interested in contributing to data analysis and machine learning packages
-- 💞️ I’m looking to collaborate on AI applications in healthcare and clinical discovery
 - 📫 kalyan {at the rate} gokhale {dot} io
 
 <!---
